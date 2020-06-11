@@ -21,5 +21,3 @@ This is a list of hardware components. If just mentioned a generic component lik
 ![testpicture001](readme_files/example.jpg)
 ![testpicture002](readme_files/example.png)
 
-
-
