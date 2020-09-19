@@ -1,4 +1,4 @@
-# $(HARDWARE_PROJECT) project
+# $(electronics_project) project
 Project description goes here.
 # HSI (Hardware Software Interface)
 This applies to a project that has a embedded software component. Describe what each pin/bus does, what it is connected to, what its function is and some "safe" behaviour when starting up.
